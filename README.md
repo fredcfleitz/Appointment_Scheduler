@@ -14,7 +14,7 @@ The application automatically changes languages based on the user's system local
 
 ![Edit Customer Screen](https://i.imgur.com/lO11X35.png)
 
-## Add, view and modify appointments in an MySQL database
+## Add, view and modify appointments in the database
 
 ![Appointments](https://i.imgur.com/SiNLLPt.png)
 
