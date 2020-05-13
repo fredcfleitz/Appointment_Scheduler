@@ -1,4 +1,4 @@
-# Appointment_Scheduler
+# Appointment Scheduler
 
 A Java application that stores customer information and appointments in a MySQL database.  
 
